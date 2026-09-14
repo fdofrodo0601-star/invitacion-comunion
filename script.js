@@ -211,7 +211,7 @@ botonConfirmar.addEventListener("click", function () {
   }
 
   // CAMBIA ESTE NÚMERO POR EL TUYO
-  const telefono = "8123828804";
+  const telefono = "2481502980";
 
   const mensaje =
     `Hola, soy ${nombre}. 😊%0A%0A` +
